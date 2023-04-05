@@ -9,7 +9,7 @@ from menu import *
 
 config = {
   'user': 'root',
-  'password': 'rasengan',
+  'password': 'Enter-Your-Password-Here',
   'host': 'localhost',
   'database': 'library',
 }
